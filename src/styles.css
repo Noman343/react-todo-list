@@ -1,0 +1,50 @@
+.mainContainer {
+    background-color: cornflowerblue;
+    min-height: 100vh;
+    width: 100%;
+    text-align: center;
+    box-sizing: border-box;
+  }
+  .inputbox {
+    text-align: center;
+    background-color: lightgreen;
+  }
+  .inputField {
+    border-radius: 3px;
+    margin: 10px;
+    height: 20px;
+    font-size: 17px;
+  }
+  .btn {
+    background-color: #fff;
+    padding: 5px;
+    box-shadow: 1px 3px #8888;
+    cursor: pointer;
+    border: none;
+    border-radius: 3px;
+  }
+  .secondCont {
+    width: 100%;
+  }
+  .itmes {
+    height: 40px;
+    display: flex;
+  }
+  .DE-icons {
+    height: 15px;
+    margin: 15px 5px;
+    float: right;
+  }
+  .secondIconsCont {
+    float: right;
+  }
+  .Rbtn {
+    background-color: #fff;
+    padding: 5px;
+    box-shadow: 1px 3px #8888;
+    cursor: pointer;
+    border: none;
+    border-radius: 3px;
+    margin-top: 10px;
+  }
+  
